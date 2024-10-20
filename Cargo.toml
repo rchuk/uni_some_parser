@@ -4,6 +4,10 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 description = "Some parser WIP"
+repository = "https://github.com/rchuk/uni_some_parser"
+authors = ["Ruslan Omelchuk"]
+keywords = ["parser", "parsing", "syntax", "token", "language"]
+categories = ["parser-implementations", "command-line-utilities"]
 
 [dependencies]
 peg = "0.8.4"
