@@ -1,0 +1,9 @@
+[package]
+name = "uni_some_parser"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Some parser WIP"
+
+[dependencies]
+peg = "0.8.4"
